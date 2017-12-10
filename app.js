@@ -17,11 +17,6 @@ mongoose.connection.on('error', (err)=>{
   console.log('error de base de datos: ' + err)
 })
 
-//this is a test
-
-
-
-
 const app = express()
 const port = 3000
 
