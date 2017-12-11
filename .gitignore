@@ -59,3 +59,4 @@ typings/
 
 # database
 config/database
+config/passport
